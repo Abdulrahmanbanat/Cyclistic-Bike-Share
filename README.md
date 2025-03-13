@@ -74,7 +74,8 @@ SQL queries for data aggregation and calculations
 Grouping and filtering data to identify trends
 
 **Share**
-Tools: Tableau [![Cyclistic Dashboard](Dashboard.png)](https://public.tableau.com/app/profile/abdulrahman.banat/viz/CyclisticCaseStudy_17418790959190/Dashboard1)
+Tools: Tableau The dashboard I created for this project can be found on tableau [here](https://public.tableau.com/app/profile/abdulrahman.banat/viz/CyclisticCaseStudy_17418790959190/Dashboard1).
+
 
 
 ![Cyclistic Dashboard](Dashboard.png)
