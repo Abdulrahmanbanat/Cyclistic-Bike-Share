@@ -76,7 +76,7 @@ Analyze Cyclistic’s bike usage data to identify differences between annual mem
 ### Tools: Tableau
 The dashboard I created for this project can be found on Tableau [here](https://public.tableau.com/app/profile/abdulrahman.banat/viz/CyclisticCaseStudy_17418790959190/Dashboard1).
 
-![Cyclistic Dashboard](Dashboard.png)
+![Cyclistic Dashboard](CyclisticDashboard.png)
 
 ### Visualizations:
 - Line charts for monthly ride trends.
