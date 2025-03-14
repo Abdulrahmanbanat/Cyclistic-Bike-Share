@@ -106,15 +106,3 @@ The dashboard I created for this project can be found on Tableau [here](https://
 - **Visualizations**: Tableau charts and dashboards.
 - **Supporting Files**: Dataset, processed data, and Tableau workbook.
 
----
-
-## GitHub Repository
-You can find the full project, including datasets, SQL queries, and Tableau files, on my GitHub repository:  
-[Cyclistic Project GitHub Link](#) *(Replace with your actual GitHub link)*
-
----
-
-### How to Use This Repository
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
